@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "OK!",
+  "base_artist": "松本梨香",
+  "createdAt": "2026-03-23T17:40:34.926346Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "OK",
+      "artist": "Alan Walker feat. JOP",
+      "has_synced": true,
+      "path": "select/01_OK_Alan_Walker_feat._JOP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "OK",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/02_OK_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "OK",
+      "artist": "張震嶽",
+      "has_synced": false,
+      "path": "select/03_OK_張震嶽.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "OK",
+      "artist": "Rammstein",
+      "has_synced": true,
+      "path": "select/04_OK_Rammstein.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Meter Marks OK",
+      "artist": "Loney Dear",
+      "has_synced": false,
+      "path": "select/05_The_Meter_Marks_OK_Loney_Dear.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ok",
+      "artist": "Madeon",
+      "has_synced": true,
+      "path": "select/06_Ok_Madeon.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "OK",
+      "artist": "Micachu & The Shapes",
+      "has_synced": true,
+      "path": "select/07_OK_Micachu_&_The_Shapes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "OK Pal",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/08_OK_Pal_M83.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "OK (feat. Lil Durk)",
+      "artist": "NAV feat. Lil Durk",
+      "has_synced": true,
+      "path": "select/09_OK_(feat._Lil_Durk)_NAV_feat._Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "OK (feat. Lil Durk)",
+      "artist": "NAV",
+      "has_synced": true,
+      "path": "select/10_OK_(feat._Lil_Durk)_NAV.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "좋아해도 되나요 (…Is It OK?)",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/11_좋아해도_되나요_(...Is_It_OK_)_f(x).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Just Might Be OK (feat. Gemini)",
+      "artist": "Lupe Fiasco feat. Gemini",
+      "has_synced": true,
+      "path": "select/12_Just_Might_Be_OK_(feat._Gemini)_Lupe_Fiasco_feat._Gemini.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Just Might Be OK (Featuring Gemini)",
+      "artist": "Lupe Fiasco",
+      "has_synced": true,
+      "path": "select/13_Just_Might_Be_OK_(Featuring_Gemini)_Lupe_Fiasco.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ali r u ok?",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/14_Ali_r_u_ok_M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'm OK By Myself",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/15_I'm_OK_By_Myself_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ready? OK.",
+      "artist": "Matt and Kim",
+      "has_synced": true,
+      "path": "select/16_Ready__OK._Matt_and_Kim.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ready? OK.",
+      "artist": "Matt & Kim",
+      "has_synced": true,
+      "path": "select/17_Ready__OK._Matt_&_Kim.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OK!",
+      "artist": "松本梨香",
+      "has_synced": false,
+      "path": "select/pl_01_OK!_松本梨香.txt"
+    }
+  ]
+}
